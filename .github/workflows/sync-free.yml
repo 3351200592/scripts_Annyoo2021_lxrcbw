@@ -36,6 +36,6 @@ jobs:
         with:
           src: github/3351200592
           dst: gitee/lxrcbw
-          static_list: "scripts_Annyoo2021"
+          static_list: "scripts_Annyoo2021_lxrcbw"
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
